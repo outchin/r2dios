@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530688740870",
+    "project_id": "r2dios2",
+    "storage_bucket": "r2dios2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530688740870:android:b415ebd036cc70a6d13d87",
+        "android_client_info": {
+          "package_name": "readtonodateios.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530688740870-agqebfud2oolb95htfth1kek4odm6au2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGMvh2ScohsFVQpK1NVAOTpngPKmTfD6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530688740870-agqebfud2oolb95htfth1kek4odm6au2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
